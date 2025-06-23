@@ -1,2 +1,2 @@
 # kalouk-xyz
-Sitio web con la teoría del curso usando Kalouk y Nuxt.
+Sitio web con presentaciones del curso usando Kalouk y Slidev.
