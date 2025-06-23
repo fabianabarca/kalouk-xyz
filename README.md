@@ -1,2 +1,2 @@
 # kalouk-xyz
-Sitio web con presentaciones del curso usando Kalouk y Slidev.
+Sitio web con presentaciones interactivas usando Kalouk.
